@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 45px;
+    font-family: 'Rubik Moonrocks', cursive;
+
+}
+.note{
+    color: black;
+    font-size: 15px;
+    font-family: monospace;
+
+}
+.song_name{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+    margin-top: 100px;
+}
